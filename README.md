@@ -108,7 +108,6 @@ Debug logs are saved locally to `Documents/BeatFocus/errors.log`.
 
 - [Electron](https://www.electronjs.org/) — Desktop framework
 - HTML / CSS / JavaScript — UI
-- [Chart.js](https://www.chartjs.org/) — Analytics charts
 - localStorage — Local data storage
 - electron-builder — Build & packaging
 
