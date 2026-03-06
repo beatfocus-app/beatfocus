@@ -106,10 +106,12 @@ Debug logs are saved locally to `Documents/BeatFocus/errors.log`.
 
 ## Tech Stack
 
-- [Electron](https://www.electronjs.org/) — Desktop framework
+- [Electron](https://www.electronjs.org/) — Desktop framework · MIT License
+- [Node.js](https://nodejs.org/) — Runtime · MIT License
+- [electron-builder](https://www.electron.build/) — Build & packaging · MIT License
+- [Material Symbols](https://fonts.google.com/icons) — Icons · Apache License 2.0
 - HTML / CSS / JavaScript — UI
 - localStorage — Local data storage
-- electron-builder — Build & packaging
 
 ---
 
