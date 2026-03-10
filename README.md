@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://beatfocus.app">
+    <img src="https://beatfocus.app/assets/beatfocus.png" width="600">
+  </a>
+</div>
+
 # BeatFocus
 
 **Time tracking for music producers.**  
