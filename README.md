@@ -103,7 +103,6 @@ Debug logs are saved locally to `Documents/BeatFocus/errors.log`.
 - Core timer with progress ring
 - Project management
 - Session ratings & tags
-- Analytics with Chart.js
 - History with calendar view
 - First-launch ToS/Privacy modal
 - Local error logging
