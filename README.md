@@ -55,7 +55,7 @@ BeatFocus is a desktop app built for music producers, artists, and studio engine
 ## Privacy
 
 All data is stored **locally on your device**.  
-Nothing is sent to external servers except an optional update check
+Nothing is sent to external servers except an update check.
 Debug logs are saved locally to `Documents/BeatFocus/errors.log`.
 
 ---
